@@ -1,20 +1,28 @@
-
 = Introduction =
 
 You can follow along with the below videos in order to install Checkmate on 2 Windows XP systems, one for running the server and oracle (tiresias) to evaluate self-checksums, and one as the client which sends back self-checksums.
 
 = Details =
 
-Installation of MYSQL:
+Installation of MYSQL:<br>
 http://youtu.be/FNBS58Rraac
 
-Installation of Windows Developer Kit (WDK):
+Installation of Windows Developer Kit (WDK):<br>
 http://youtu.be/EKBTrubcm38
 
-Installation of Visual Studio 2010 Professional:
+Installation of Visual Studio 2010 Professional:<br>
 http://youtu.be/PbFde-6sFOo
 
-Installation and first configuration of Checkmate code:
+Installation and first configuration of Checkmate code:<br>
 http://youtu.be/vEnB7EPAoDs
+
+Installing OpenSSL prerequisites:<br>
+http://youtu.be/hAvWcPAvWv0
+
+Building and installing the client code:<br>
+http://youtu.be/TA-58zhpL00
+
+Building and running the Server and Tiresias code: <br>
+
 
 To be continued...
