@@ -2,8 +2,6 @@
 
 You can follow along with the below videos in order to install Checkmate on 2 Windows XP systems, one for running the server and oracle (tiresias) to evaluate self-checksums, and one as the client which sends back self-checksums.
 
-= Details =
-
 Installation of MYSQL:<br>
 http://youtu.be/FNBS58Rraac
 
@@ -23,7 +21,7 @@ Building and installing the client code:<br>
 http://youtu.be/TA-58zhpL00
 
 Building and running the Server and Tiresias code: <br>
-http://youtu.be/Xwnx0IPv0no
+http://youtu.be/LA22pjr5jGQ
 
 
 To be continued with debugging instructions...
