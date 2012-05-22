@@ -21,7 +21,7 @@ Building and installing the client code:<br>
 http://youtu.be/TA-58zhpL00
 
 Building and running the Server and Tiresias code: <br>
-http://youtu.be/LA22pjr5jGQ
+http://youtu.be/AOaP-PaSmy8
 
 
 To be continued with debugging instructions...
